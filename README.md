@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Next.js / SEO**
 
-- 📫 How to reach me **https://calvintorra.com/l/letstalk**
+- 📫 How to reach me https://calvintorra.com/l/letstalk
 
 - 📄 Know about my experiences [https://calvintorra.com/l/cv](https://calvintorra.com/l/cv)
 
